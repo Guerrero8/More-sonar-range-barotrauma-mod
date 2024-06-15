@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="More Sonar Range" modversion="1.0.0" corepackage="False" steamworkshopid="3267738795" gameversion="1.4.6.0" altnames="More Sonar Range">
+    <Item file="%ModDir%/Content/Items/command.xml" />
+</contentpackage>
