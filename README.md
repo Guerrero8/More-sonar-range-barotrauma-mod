@@ -1,3 +1,4 @@
+~~~
 curl --request POST `
     --url "https://cpc-common-gateway.get-dzo-products.cpc-info.apps.ift-terra000027-edm.ocp.delta.sbrf.ru/v1/search/efsflinvopstopds" `
     --header "Content-Type: application/json;charset=UTF-8" `
@@ -13,3 +14,4 @@ curl --request POST `
             "PDS"
         ]
     }'
+...
